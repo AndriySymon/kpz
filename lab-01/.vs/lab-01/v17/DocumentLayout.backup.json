@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|c:\\users\\user\\desktop\\kpz_labs\\lab-01\\task1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|solutionrelative:task1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|c:\\users\\user\\desktop\\kpz_labs\\lab-01\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,13 +52,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\README.md",
-              "RelativeDocumentMoniker": "task1\\README.md",
-              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\README.md",
-              "RelativeToolTip": "task1\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-23T11:13:39.439Z",
+              "WhenOpened": "2025-02-23T11:32:59.4Z",
               "EditorCaption": ""
             },
             {
@@ -107,8 +107,7 @@
               "RelativeToolTip": "ClassLibrary\\Warehouse.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:45:18.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T12:45:18.793Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "task1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:35:20.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T12:35:20.269Z"
             }
           ]
         }

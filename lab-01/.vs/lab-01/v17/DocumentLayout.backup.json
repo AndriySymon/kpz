@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\imoneyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -56,14 +56,14 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-02-23T11:32:59.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\ShoppingCart.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Category.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Category.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Warehouse.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Warehouse.cs",
@@ -111,19 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Product.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Product.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Product.cs",
               "RelativeToolTip": "ClassLibrary\\Product.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:44:41.672Z"
+              "WhenOpened": "2025-02-22T12:44:41.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IMoneyInterface.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\IMoneyInterface.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\IMoneyInterface.cs",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Money.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Money.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Money.cs",
@@ -147,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\Program.cs",
               "RelativeDocumentMoniker": "task1\\Program.cs",

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|c:\\users\\user\\desktop\\kpz_labs\\lab-01\\task1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|solutionrelative:task1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|c:\\users\\user\\desktop\\kpz_labs\\lab-01\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45ECD7EA-884B-4DC1-A925-0BE0AD90459A}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\imoneyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\imoneyinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\classlibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13AB44-F9D6-4EA0-82B8-50AF5A9C2989}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\README.md",
+              "RelativeDocumentMoniker": "task1\\README.md",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\README.md",
+              "RelativeToolTip": "task1\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-23T11:13:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\ShoppingCart.cs",
+              "RelativeToolTip": "ClassLibrary\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:45:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Category.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Category.cs",
+              "RelativeToolTip": "ClassLibrary\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:44:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reporting.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Reporting.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Reporting.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Reporting.cs",
+              "RelativeToolTip": "ClassLibrary\\Reporting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:46:13.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Warehouse.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Warehouse.cs",
+              "RelativeToolTip": "ClassLibrary\\Warehouse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:45:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Product.cs",
+              "RelativeToolTip": "ClassLibrary\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:44:41.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMoneyInterface.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\IMoneyInterface.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\IMoneyInterface.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\IMoneyInterface.cs",
+              "RelativeToolTip": "ClassLibrary\\IMoneyInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:38:28.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Money.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Money.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\ClassLibrary\\Money.cs",
+              "RelativeToolTip": "ClassLibrary\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:42:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-01\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:35:20.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

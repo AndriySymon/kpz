@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|c:\\users\\user\\desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\subscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\subscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20981A65-8E5D-4DBD-8D74-4C4E1D6239A9}|task5\\task5.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20981A65-8E5D-4DBD-8D74-4C4E1D6239A9}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCAA60D1-8B5E-4CCA-8726-34A2B18E3885}|task3\\task3.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCAA60D1-8B5E-4CCA-8726-34A2B18E3885}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E7E238-DEEF-48DD-B80C-6DDFB8377354}|task2\\task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E7E238-DEEF-48DD-B80C-6DDFB8377354}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary1_task2\\netbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38AF9-1D87-497A-B23F-01701A9BFBEB}|ClassLibrary1_task2\\ClassLibrary1_task2.csproj|solutionrelative:classlibrary1_task2\\netbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC81694D-F35D-432D-80C0-1E51873741F5}|task1\\task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC81694D-F35D-432D-80C0-1E51873741F5}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\classlibrary_task1\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6596E333-5DC8-4F34-84D7-E042F09E2946}|ClassLibrary_task1\\ClassLibrary_task1.csproj|solutionrelative:classlibrary_task1\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\PremiumSubscription.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\PremiumSubscription.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\PremiumSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:33:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BalaxyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\BalaxyFactory.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\BalaxyFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\BalaxyFactory.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\BalaxyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:56:09.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\IDeviceFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\IDeviceFactory.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\IDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:54:11.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\IDevice.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\IDevice.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\IDevice.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:49:32.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\Laptop.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\Laptop.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\Laptop.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:51:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\EducationalSubscription.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\EducationalSubscription.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\EducationalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:33:11.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubscriptionCreator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\ISubscriptionCreator.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\ISubscriptionCreator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\ISubscriptionCreator.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\ISubscriptionCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:34:23.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\Subscription.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\Subscription.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\Subscription.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\Subscription.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:19:21.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubscriptionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\SubscriptionFactory.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\SubscriptionFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\SubscriptionFactory.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\SubscriptionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:36:28.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebSite.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\WebSite.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\WebSite.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\WebSite.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\WebSite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:35:03.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\DomesticSubscription.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\DomesticSubscription.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\DomesticSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:32:39.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:30:34.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KiaomiFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\KiaomiFactory.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\KiaomiFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\KiaomiFactory.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\KiaomiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:55:26.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\Smartphone.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\Smartphone.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:53:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\IProneFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\IProneFactory.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\IProneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:54:50.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:02:37.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\EBook.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\EBook.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\EBook.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\EBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:52:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Netbook.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\Netbook.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_task2\\Netbook.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary1_task2\\Netbook.cs",
+              "RelativeToolTip": "ClassLibrary1_task2\\Netbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:52:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:49:17.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\ManagerCall.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\ManagerCall.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\ManagerCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:35:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MobileApp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\MobileApp.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task1\\MobileApp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\ClassLibrary_task1\\MobileApp.cs",
+              "RelativeToolTip": "ClassLibrary_task1\\MobileApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:35:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\kpz_labs\\lab-02\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:18:49.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

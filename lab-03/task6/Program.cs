@@ -18,29 +18,32 @@ namespace task6
             string[] lines = bookText.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
 
             List<LightNode> htmlNodes = new List<LightNode>();
+            LightHTMLNodeFactory nodeFactory = new LightHTMLNodeFactory();
 
-            foreach (var line in lines)
+            for (int i = 0; i < lines.Length; i++)
             {
-                LightElementNode elementNode = null;
+                string line = lines[i];
+                string tag;
 
-                if (line == lines[0])
+                if (i == 0)
                 {
-                    elementNode = LightHTMLNode_task6.GetElementNode("h1", "block");
+                    tag = "h1";
                 }
                 else if (line.Length < 20)
                 {
-                    elementNode = LightHTMLNode_task6.GetElementNode("h2", "block");
+                    tag = "h2";
                 }
                 else if (line.StartsWith(" "))
                 {
-                    elementNode = LightHTMLNode_task6.GetElementNode("blockquote", "block");
+                    tag = "blockquote";
                 }
                 else
                 {
-                    elementNode = LightHTMLNode_task6.GetElementNode("p", "block");
+                    tag = "p";
                 }
 
-                elementNode.AddChild(LightHTMLNode_task6.GetTextNode(line));
+                LightElementNode elementNode = new LightElementNode(tag, "block", false);
+                elementNode.AddChild(new LightTextNode(line));
                 htmlNodes.Add(elementNode);
             }
 
@@ -49,7 +52,7 @@ namespace task6
                 Console.WriteLine(node.OuterHTML);
             }
 
-            long memoryUsage = System.GC.GetTotalMemory(true);
+            long memoryUsage = GC.GetTotalMemory(true);
             Console.WriteLine($"Memory used by the HTML tree: {memoryUsage} bytes");
         }
 

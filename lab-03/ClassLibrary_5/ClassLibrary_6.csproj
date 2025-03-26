@@ -42,7 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LightElementNode.cs" />
-    <Compile Include="LightHTMLNodeFactory_task6.cs" />
+    <Compile Include="LightHTMLNodeFactory.cs" />
+    <Compile Include="LightHTMLNode_task6.cs" />
     <Compile Include="LightNode.cs" />
     <Compile Include="LightTextNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

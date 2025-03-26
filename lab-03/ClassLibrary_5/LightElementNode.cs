@@ -8,72 +8,23 @@ namespace ClassLibrary_5
 {
     public class LightElementNode : LightNode
     {
-        public string TagName { get; }
-        public string DisplayType { get; }
-        public bool IsSelfClosing { get; }
-        public List<string> CssClasses { get; }
-        public List<LightNode> Children { get; }
+        private string tagName;
+        private string displayType;
+        private bool isSelfClosing;
+        private List<LightNode> children = new List<LightNode>();
 
         public LightElementNode(string tagName, string displayType, bool isSelfClosing = false)
         {
-            TagName = tagName;
-            DisplayType = displayType;
-            IsSelfClosing = isSelfClosing;
-            CssClasses = new List<string>();
-            Children = new List<LightNode>();
-        }
-
-        public void AddCssClass(string cssClass)
-        {
-            CssClasses.Add(cssClass);
+            this.tagName = tagName;
+            this.displayType = displayType;
+            this.isSelfClosing = isSelfClosing;
         }
 
         public void AddChild(LightNode child)
         {
-            Children.Add(child);
+            children.Add(child);
         }
 
-        public override string OuterHTML
-        {
-            get
-            {
-                var sb = new StringBuilder();
-
-                sb.Append($"<{TagName}");
-
-                if (CssClasses.Count > 0)
-                {
-                    sb.Append($" class=\"{string.Join(" ", CssClasses)}\"");
-                }
-
-                if (IsSelfClosing)
-                {
-                    sb.Append(" /");
-                }
-
-                sb.Append(">");
-
-                sb.Append(InnerHTML);
-
-                if (!IsSelfClosing)
-                {
-                    sb.Append($"</{TagName}>");
-                }
-
-                return sb.ToString();
-            }
-        }
-        public override string InnerHTML
-        {
-            get
-            {
-                var sb = new StringBuilder();
-                foreach (var child in Children)
-                {
-                    sb.Append(child.OuterHTML);
-                }
-                return sb.ToString();
-            }
-        }
+        public override string OuterHTML => isSelfClosing ? $"<{tagName} />" : $"<{tagName}>{string.Join("", children.Select(c => c.OuterHTML))}</{tagName}>";
     }
 }

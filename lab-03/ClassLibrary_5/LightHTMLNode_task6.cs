@@ -8,16 +8,9 @@ namespace ClassLibrary_5
 {
     public class LightHTMLNode_task6
     {
-        private static Dictionary<string, LightElementNode> elementCache = new Dictionary<string, LightElementNode>();
-
         public static LightElementNode GetElementNode(string tagName, string displayType, bool isSelfClosing = false)
         {
-            string key = $"{tagName}-{displayType}-{isSelfClosing}";
-            if (!elementCache.ContainsKey(key))
-            {
-                elementCache[key] = new LightElementNode(tagName, displayType, isSelfClosing);
-            }
-            return elementCache[key];
+            return new LightElementNode(tagName, displayType, isSelfClosing);
         }
 
         public static LightTextNode GetTextNode(string text)

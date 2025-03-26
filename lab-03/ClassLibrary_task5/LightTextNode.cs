@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary_5
+namespace ClassLibrary_task5
 {
     public class LightTextNode : LightNode
     {
-        private string text;
+        public string Text { get; }
+
         public LightTextNode(string text)
         {
-            this.text = text;
+            Text = text;
         }
-        public override string OuterHTML => text;
+
+        public override string OuterHTML => Text;
+        public override string InnerHTML => Text;
     }
 }

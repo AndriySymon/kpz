@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ClassLibrary_5;
+using ClassLibrary_task5;
 
 namespace task5
 {

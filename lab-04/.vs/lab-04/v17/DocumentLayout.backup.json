@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5_classLibrary\\TextEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\DocumentMemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5_classLibrary\\DocumentMemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5_classLibrary\\TextDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextEditor.cs",
+              "RelativeDocumentMoniker": "task5_classLibrary\\TextEditor.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextEditor.cs",
+              "RelativeToolTip": "task5_classLibrary\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:26:28.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentMemento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\DocumentMemento.cs",
+              "RelativeDocumentMoniker": "task5_classLibrary\\DocumentMemento.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\DocumentMemento.cs",
+              "RelativeToolTip": "task5_classLibrary\\DocumentMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:26:06.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextDocument.cs",
+              "RelativeDocumentMoniker": "task5_classLibrary\\TextDocument.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextDocument.cs",
+              "RelativeToolTip": "task5_classLibrary\\TextDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:25:14.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:25:00.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

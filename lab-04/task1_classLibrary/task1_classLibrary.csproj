@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FDA137B5-B5E6-4701-852B-625058F81253}</ProjectGuid>
+    <ProjectGuid>{3B36F01F-86C1-4633-98FB-FD304BBA19F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary_task5</RootNamespace>
-    <AssemblyName>ClassLibrary_task5</AssemblyName>
+    <RootNamespace>task1_classLibrary</RootNamespace>
+    <AssemblyName>task1_classLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,14 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileImageLoader.cs" />
-    <Compile Include="IImageLoadingStrategy.cs" />
-    <Compile Include="LightElementNode.cs" />
-    <Compile Include="LightImageNode.cs" />
-    <Compile Include="LightNode.cs" />
-    <Compile Include="LightTextNode.cs" />
-    <Compile Include="NetworkImageLoading.cs" />
+    <Compile Include="ComplaintSupportHandler.cs" />
+    <Compile Include="FinancialSupportHandler.cs" />
+    <Compile Include="GeneralSupportHandler.cs" />
+    <Compile Include="ILogger.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="MobileAppSupportHandler.cs" />
+    <Compile Include="SecuritySupportHandler.cs" />
+    <Compile Include="SupportHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TechnicalSupportHandler.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

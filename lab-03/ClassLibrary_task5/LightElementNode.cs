@@ -38,7 +38,6 @@ namespace ClassLibrary_task5
             get
             {
                 var sb = new StringBuilder();
-
                 sb.Append($"<{TagName}");
 
                 if (CssClasses.Count > 0)

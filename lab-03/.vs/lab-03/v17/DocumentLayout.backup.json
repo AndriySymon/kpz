@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lightimagenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\lightimagenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\fileimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\fileimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83E1C7AD-1196-4194-BD66-F3232DB08E40}|task5\\task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83E1C7AD-1196-4194-BD66-F3232DB08E40}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-03\\classlibrary_task5\\networkimageloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\networkimageloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\classlibrary_task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA137B5-B5E6-4701-852B-625058F81253}|ClassLibrary_task5\\ClassLibrary_task5.csproj|solutionrelative:classlibrary_task5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LightImageNode.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightImageNode.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task5\\LightImageNode.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightImageNode.cs",
+              "RelativeToolTip": "ClassLibrary_task5\\LightImageNode.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:39:30.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkImageLoading.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\NetworkImageLoading.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task5\\NetworkImageLoading.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\NetworkImageLoading.cs",
+              "RelativeToolTip": "ClassLibrary_task5\\NetworkImageLoading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:39:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileImageLoader.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\FileImageLoader.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task5\\FileImageLoader.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\FileImageLoader.cs",
+              "RelativeToolTip": "ClassLibrary_task5\\FileImageLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:37:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IImageLoadingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\IImageLoadingStrategy.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task5\\IImageLoadingStrategy.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\IImageLoadingStrategy.cs",
+              "RelativeToolTip": "ClassLibrary_task5\\IImageLoadingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:34:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightNode.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task5\\LightNode.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightNode.cs",
+              "RelativeToolTip": "ClassLibrary_task5\\LightNode.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:12:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "ClassLibrary_task5\\LightElementNode.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightElementNode.cs",
+              "RelativeToolTip": "ClassLibrary_task5\\LightElementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:09:35.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:08:09.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightTextNode.cs",
               "RelativeDocumentMoniker": "ClassLibrary_task5\\LightTextNode.cs",
@@ -38,47 +145,7 @@
               "RelativeToolTip": "ClassLibrary_task5\\LightTextNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:13:57.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LightNode.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightNode.cs",
-              "RelativeDocumentMoniker": "ClassLibrary_task5\\LightNode.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightNode.cs",
-              "RelativeToolTip": "ClassLibrary_task5\\LightNode.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:12:45.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "ClassLibrary_task5\\LightElementNode.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\ClassLibrary_task5\\LightElementNode.cs",
-              "RelativeToolTip": "ClassLibrary_task5\\LightElementNode.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wE0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:09:35.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\task5\\Program.cs",
-              "RelativeDocumentMoniker": "task5\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-03\\task5\\Program.cs",
-              "RelativeToolTip": "task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:08:09.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:13:57.409Z"
             }
           ]
         }

@@ -41,9 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileImageLoader.cs" />
+    <Compile Include="IImageLoadingStrategy.cs" />
     <Compile Include="LightElementNode.cs" />
+    <Compile Include="LightImageNode.cs" />
     <Compile Include="LightNode.cs" />
     <Compile Include="LightTextNode.cs" />
+    <Compile Include="NetworkImageLoading.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

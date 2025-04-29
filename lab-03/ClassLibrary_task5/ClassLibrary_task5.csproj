@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LifecycleElementNode.cs" />
     <Compile Include="LightElementNode.cs" />
+    <Compile Include="LightElementNodeWithLifecycle.cs" />
     <Compile Include="LightNode.cs" />
     <Compile Include="LightTextNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

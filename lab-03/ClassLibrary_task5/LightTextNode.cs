@@ -27,6 +27,9 @@ namespace ClassLibrary_task5
         {
             return new BreadthFirstIterator(this);
         }
-
+        public override void Accept(IElementVisitor visitor)
+        {
+            visitor.Visit(this);
+        }
     }
 }

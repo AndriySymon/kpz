@@ -68,6 +68,11 @@ namespace task5
             div.Render();
             p1.Render();
             p2.Render();
+
+            Console.WriteLine("\n--- Visitor Pattern ---");
+            var renderVisitor = new RenderVisitor();
+            Console.WriteLine("Visiting elements and rendering them:");
+            div.Accept(renderVisitor);
         }
     }
 }

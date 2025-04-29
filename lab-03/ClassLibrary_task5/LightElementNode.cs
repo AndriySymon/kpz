@@ -76,5 +76,16 @@ namespace ClassLibrary_task5
                 return sb.ToString();
             }
         }
+
+        public override ILightNodeIterator GetDepthFirstIterator()
+        {
+            return new DepthFirstIterator(this);
+        }
+
+        public override ILightNodeIterator GetBreadthFirstIterator()
+        {
+            return new BreadthFirstIterator(this);
+        }
+
     }
 }

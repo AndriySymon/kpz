@@ -38,6 +38,22 @@ namespace task5
 
             Console.WriteLine(div.OuterHTML);
             Console.WriteLine(ul.OuterHTML);
+
+            Console.WriteLine("\n--- Depth First Traversal ---");
+            var dfs = div.GetDepthFirstIterator();
+            while (dfs.HasNext())
+            {
+                var node = dfs.Next();
+                Console.WriteLine(node.OuterHTML);
+            }
+
+            Console.WriteLine("\n--- Breadth First Traversal ---");
+            var bfs = div.GetBreadthFirstIterator();
+            while (bfs.HasNext())
+            {
+                var node = bfs.Next();
+                Console.WriteLine(node.OuterHTML);
+            }
         }
     }
 }

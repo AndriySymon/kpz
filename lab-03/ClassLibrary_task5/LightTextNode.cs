@@ -17,5 +17,16 @@ namespace ClassLibrary_task5
 
         public override string OuterHTML => Text;
         public override string InnerHTML => Text;
+
+        public override ILightNodeIterator GetDepthFirstIterator()
+        {
+            return new DepthFirstIterator(this);
+        }
+
+        public override ILightNodeIterator GetBreadthFirstIterator()
+        {
+            return new BreadthFirstIterator(this);
+        }
+
     }
 }

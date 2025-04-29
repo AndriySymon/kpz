@@ -59,6 +59,15 @@ namespace task5
             var changeTextCommand = new ChangeTextCommand((LightTextNode)p1.Children[0], "This is the modified first paragraph.");
             changeTextCommand.Execute();
             Console.WriteLine(p1.OuterHTML);
+
+            Console.WriteLine("\n--- State Pattern ---");
+            p1.SetState(new InactiveState());
+            p2.SetState(new ActiveState());
+
+            Console.WriteLine("Rendering elements with state:");
+            div.Render();
+            p1.Render();
+            p2.Render();
         }
     }
 }

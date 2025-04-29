@@ -13,6 +13,7 @@ namespace ClassLibrary_task5
         public bool IsSelfClosing { get; }
         public List<string> CssClasses { get; }
         public List<LightNode> Children { get; }
+        private IElementState _state;
 
         public LightElementNode(string tagName, string displayType, bool isSelfClosing = false)
         {
@@ -21,6 +22,7 @@ namespace ClassLibrary_task5
             IsSelfClosing = isSelfClosing;
             CssClasses = new List<string>();
             Children = new List<LightNode>();
+            _state = new ActiveState();
         }
 
         public virtual void AddCssClass(string cssClass)
@@ -31,6 +33,10 @@ namespace ClassLibrary_task5
         public virtual void AddChild(LightNode child)
         {
             Children.Add(child);
+        }
+        public void SetState(IElementState state)
+        {
+            _state = state;
         }
 
         public override string OuterHTML
@@ -85,6 +91,11 @@ namespace ClassLibrary_task5
         public override ILightNodeIterator GetBreadthFirstIterator()
         {
             return new BreadthFirstIterator(this);
+        }
+
+        public void Render()
+        {
+            _state.Render(this);
         }
 
     }

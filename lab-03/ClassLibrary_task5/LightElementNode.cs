@@ -97,6 +97,10 @@ namespace ClassLibrary_task5
         {
             _state.Render(this);
         }
+        public override void Accept(IElementVisitor visitor)
+        {
+            visitor.Visit(this);
+        }
 
     }
 }

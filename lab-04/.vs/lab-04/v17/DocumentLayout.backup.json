@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5_classLibrary\\TextEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{369431CC-0FC9-448F-9449-8D5F82354198}|task5_classLibrary\\task5_classLibrary.csproj|c:\\users\\user\\onedrive\\desktop\\kpz_labs\\lab-04\\task5_classlibrary\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369431CC-0FC9-448F-9449-8D5F82354198}|task5_classLibrary\\task5_classLibrary.csproj|solutionrelative:task5_classlibrary\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\DocumentMemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5_classLibrary\\DocumentMemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{369431CC-0FC9-448F-9449-8D5F82354198}|task5_classLibrary\\task5_classLibrary.csproj|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\DocumentMemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369431CC-0FC9-448F-9449-8D5F82354198}|task5_classLibrary\\task5_classLibrary.csproj|solutionrelative:task5_classLibrary\\DocumentMemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5_classLibrary\\TextDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{369431CC-0FC9-448F-9449-8D5F82354198}|task5_classLibrary\\task5_classLibrary.csproj|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5_classLibrary\\TextDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369431CC-0FC9-448F-9449-8D5F82354198}|task5_classLibrary\\task5_classLibrary.csproj|solutionrelative:task5_classLibrary\\TextDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEDD9629-7478-4AE1-9033-DB356001953C}|task5\\task5.csproj|C:\\Users\\user\\OneDrive\\Desktop\\kpz_labs\\lab-04\\task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDD9629-7478-4AE1-9033-DB356001953C}|task5\\task5.csproj|solutionrelative:task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [

@@ -23,12 +23,12 @@ namespace ClassLibrary_task5
             Children = new List<LightNode>();
         }
 
-        public void AddCssClass(string cssClass)
+        public virtual void AddCssClass(string cssClass)
         {
             CssClasses.Add(cssClass);
         }
 
-        public void AddChild(LightNode child)
+        public virtual void AddChild(LightNode child)
         {
             Children.Add(child);
         }

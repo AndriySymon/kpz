@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddCssClassCommand.cs" />
     <Compile Include="BreadthFirstIterator.cs" />
+    <Compile Include="ChangeTextCommand.cs" />
     <Compile Include="DepthFirstIterator.cs" />
+    <Compile Include="ICommand.cs" />
     <Compile Include="ILightNodeIterator.cs" />
     <Compile Include="LifecycleElementNode.cs" />
     <Compile Include="LightElementNode.cs" />

@@ -54,6 +54,11 @@ namespace task5
                 var node = bfs.Next();
                 Console.WriteLine(node.OuterHTML);
             }
+
+            Console.WriteLine("\n--- Command Pattern: Change Text ---");
+            var changeTextCommand = new ChangeTextCommand((LightTextNode)p1.Children[0], "This is the modified first paragraph.");
+            changeTextCommand.Execute();
+            Console.WriteLine(p1.OuterHTML);
         }
     }
 }
